@@ -11,3 +11,5 @@
 - [Site de emoji para usar nos arquivos de Markdow](https://emojipedia.org/)
 
 - [Site da documentação .NET](https://docs.microsoft.com/pt-br/dotnet/)
+  
+- [Site para converter SVG em JSX](https://svg2jsx.com/)
