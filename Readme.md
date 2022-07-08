@@ -13,3 +13,5 @@
 - [Site da documentação .NET](https://docs.microsoft.com/pt-br/dotnet/)
   
 - [Site para converter SVG em JSX](https://svg2jsx.com/)
+
+- [Site para criar paletas de cores](https://coolors.co/)
