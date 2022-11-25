@@ -1,5 +1,5 @@
 # Desafio Github
-Este repositório foi desenvolvido para completar o desafio do github do bootcamp GFT Start #5 .NET.
+Este repositório foi desenvolvido para completar o desafio do Github do bootcamp GFT Start #5 .NET.
 
 # Sites 
 A seguir, apresenta-se uma lista de sites que são úteis para o desenvolvimento e aprendizado de programação.
@@ -7,7 +7,7 @@ A seguir, apresenta-se uma lista de sites que são úteis para o desenvolvimento
 ### Sites Readme 📃
 - [GPRM](https://profile-readme-generator.com/)
 - [Profile Readme Generator](https://gprm.itsvg.in/)
-- [Site sobre Markdown](https://www.markdownguide.org/cheat-sheet/)
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 ### Sites para Design 🎨
 - [Site para converter SVG em JSX](https://svg2jsx.com/)
