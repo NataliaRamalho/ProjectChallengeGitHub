@@ -13,6 +13,7 @@ A seguir, apresenta-se uma lista de sites que são úteis para o desenvolvimento
 - [Site para converter SVG em JSX](https://svg2jsx.com/)
 - [Site para criar paletas de cores](https://coolors.co/)
 - [Site de emoji](https://emojipedia.org/)
+- [Site para sombras css](https://getcssscan.com/css-box-shadow-examples)
 
 ### Sites para treinar programação 💻
 - [Site da documentação .NET](https://docs.microsoft.com/pt-br/dotnet/)
